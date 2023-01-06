@@ -1,0 +1,5 @@
+# JetBrains IDE
+.idea/
+
+# Folder for storing stock data
+data/
